@@ -3,5 +3,6 @@ Is it possible to classify images using the fMRI responses to an image stimulus?
 
 Dataset: https://www.nature.com/articles/nature06713 
 
-![image](https://user-images.githubusercontent.com/54279933/130331918-65102a1b-e3de-41d2-8fc0-83193c112c49.png)
+![image](https://user-images.githubusercontent.com/54279933/130331928-2ed9f45c-4279-495d-9b8b-3cb77f5df6d7.png)
+
 
