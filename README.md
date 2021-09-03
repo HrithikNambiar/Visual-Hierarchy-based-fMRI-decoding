@@ -7,6 +7,6 @@ Dataset: https://www.nature.com/articles/nature06713
 
 ![image](https://user-images.githubusercontent.com/54279933/130331971-1d239135-47cd-4f97-ba7c-c1daa4011a8b.png)
 
-
+Our visual hierachy based model to classify images using fMRI data is seen to be a better learner as compared to a ResNet on the same task.
 
 
